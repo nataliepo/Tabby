@@ -1,0 +1,671 @@
+TTabby
+v7
+r0
+t306680325.207971
+cCheck dependencies
+cProcessInfoPlistFile /Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app/Info.plist Tabby-Info.plist
+cCompileXIB /Users/natalie/Development/CocoaDev/Tabby/MainWindow.xib
+cCompileXIB /Users/natalie/Development/CocoaDev/Tabby/Classes/Alpha.xib
+cCompileXIB /Users/natalie/Development/CocoaDev/Tabby/Classes/Beta.xib
+cCpResource build/Debug-iphonesimulator/Tabby.app/planet_ico.png planet_ico.png
+cCpResource build/Debug-iphonesimulator/Tabby.app/star_ico.png star_ico.png
+cCompileXIB /Users/natalie/Development/CocoaDev/Tabby/Gamma.xib
+cCompileXIB /Users/natalie/Development/CocoaDev/Tabby/Classes/Delta.xib
+cCpResource build/Debug-iphonesimulator/Tabby.app/skull_ico.png Classes/skull_ico.png
+cCpResource build/Debug-iphonesimulator/Tabby.app/heart_ico.png heart_ico.png
+cCpResource build/Debug-iphonesimulator/Tabby.app/present_ico.png Classes/present_ico.png
+cCompileXIB /Users/natalie/Development/CocoaDev/Tabby/Classes/Epsilon.xib
+cCompileXIB /Users/natalie/Development/CocoaDev/Tabby/Classes/Zeta.xib
+cCpResource build/Debug-iphonesimulator/Tabby.app/bandaid_ico.png bandaid_ico.png
+cProcessPCH /var/folders/N-/N-A4K+9dHi4wHPCQCksSh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tabby_Prefix-abduuidkiwpmbegipaafidlkrkqs/Tabby_Prefix.pch.gch Tabby_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Tabby.build/Debug-iphonesimulator/Tabby.build/Objects-normal/i386/main.o /Users/natalie/Development/CocoaDev/Tabby/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Tabby.build/Debug-iphonesimulator/Tabby.build/Objects-normal/i386/TabbyAppDelegate.o /Users/natalie/Development/CocoaDev/Tabby/Classes/TabbyAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Tabby.build/Debug-iphonesimulator/Tabby.build/Objects-normal/i386/Alpha.o /Users/natalie/Development/CocoaDev/Tabby/Classes/Alpha.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Tabby.build/Debug-iphonesimulator/Tabby.build/Objects-normal/i386/Beta.o /Users/natalie/Development/CocoaDev/Tabby/Classes/Beta.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Tabby.build/Debug-iphonesimulator/Tabby.build/Objects-normal/i386/Gamma.o /Users/natalie/Development/CocoaDev/Tabby/Classes/../Gamma.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Tabby.build/Debug-iphonesimulator/Tabby.build/Objects-normal/i386/Delta.o /Users/natalie/Development/CocoaDev/Tabby/Classes/Delta.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Tabby.build/Debug-iphonesimulator/Tabby.build/Objects-normal/i386/Epsilon.o /Users/natalie/Development/CocoaDev/Tabby/Classes/Epsilon.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Tabby.build/Debug-iphonesimulator/Tabby.build/Objects-normal/i386/Zeta.o /Users/natalie/Development/CocoaDev/Tabby/Classes/Zeta.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app/Tabby normal i386
+cGenerateDSYMFile /Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app.dSYM /Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app/Tabby
+cTouch /Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004B69B45C00000000000000EE
+t1265218652
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004C69E53A0000000000000110
+t1282008378
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BA03AB3000000000026F020
+t1268791987
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B9F1DE40000000000289C20
+t1268719076
+s2661408
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B9F1DD60000000000001355
+t1268719062
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BA6CAEC000000000000098F
+t1269222124
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BA6CB31000000000214E400
+t1269222193
+s34923520
+
+N/Users/natalie/Development/CocoaDev/Tabby/Classes/../Gamma.m
+c000000004C9751CC000000000000057D
+t1284985292
+s1405
+i"Gamma.h"
+
+N/Users/natalie/Development/CocoaDev/Tabby/Classes/Alpha.h
+c000000004C9750A700000000000000D1
+t1284984999
+s209
+i<UIKit/UIKit.h>
+
+N/Users/natalie/Development/CocoaDev/Tabby/Classes/Alpha.m
+c000000004C9751B20000000000000576
+t1284985266
+s1398
+i"Alpha.h"
+
+N/Users/natalie/Development/CocoaDev/Tabby/Classes/Alpha.xib
+c000000004C974D80000000000000428A
+t1284984192
+s17034
+
+N/Users/natalie/Development/CocoaDev/Tabby/Classes/Beta.h
+c000000004C974D4500000000000000CE
+t1284984133
+s206
+i<UIKit/UIKit.h>
+
+N/Users/natalie/Development/CocoaDev/Tabby/Classes/Beta.m
+c000000004C9751B80000000000000576
+t1284985272
+s1398
+i"Beta.h"
+
+N/Users/natalie/Development/CocoaDev/Tabby/Classes/Beta.xib
+c000000004C97541300000000000042AE
+t1284985875
+s17070
+
+N/Users/natalie/Development/CocoaDev/Tabby/Classes/Delta.h
+c000000004C97520200000000000000D0
+t1284985346
+s208
+i<UIKit/UIKit.h>
+
+N/Users/natalie/Development/CocoaDev/Tabby/Classes/Delta.m
+c000000004C975202000000000000057D
+t1284985346
+s1405
+i"Delta.h"
+
+N/Users/natalie/Development/CocoaDev/Tabby/Classes/Delta.xib
+c000000004C97540A0000000000004244
+t1284985866
+s16964
+
+N/Users/natalie/Development/CocoaDev/Tabby/Classes/Epsilon.h
+c000000004C97534D00000000000000D4
+t1284985677
+s212
+i<UIKit/UIKit.h>
+
+N/Users/natalie/Development/CocoaDev/Tabby/Classes/Epsilon.m
+c000000004C97534D0000000000000583
+t1284985677
+s1411
+i"Epsilon.h"
+
+N/Users/natalie/Development/CocoaDev/Tabby/Classes/Epsilon.xib
+c000000004C97536E000000000000428C
+t1284985710
+s17036
+
+N/Users/natalie/Development/CocoaDev/Tabby/Classes/TabbyAppDelegate.h
+c000000004C974DCA00000000000001A2
+t1284984266
+s418
+i<UIKit/UIKit.h>
+
+N/Users/natalie/Development/CocoaDev/Tabby/Classes/TabbyAppDelegate.m
+c000000004C97544C0000000000000839
+t1284985932
+s2105
+i"TabbyAppDelegate.h"
+i"Alpha.h"
+i"Beta.h"
+i"Gamma.h"
+i"Delta.h"
+i"Epsilon.h"
+i"Zeta.h"
+
+N/Users/natalie/Development/CocoaDev/Tabby/Classes/Zeta.h
+c000000004C9753E600000000000000CE
+t1284985830
+s206
+i<UIKit/UIKit.h>
+
+N/Users/natalie/Development/CocoaDev/Tabby/Classes/Zeta.m
+c000000004C9753E6000000000000057A
+t1284985830
+s1402
+i"Zeta.h"
+
+N/Users/natalie/Development/CocoaDev/Tabby/Classes/Zeta.xib
+c000000004C9754030000000000004277
+t1284985859
+s17015
+
+N/Users/natalie/Development/CocoaDev/Tabby/Classes/present_ico.png
+c000000004C975336000000000000066C
+t1284985654
+s1644
+
+N/Users/natalie/Development/CocoaDev/Tabby/Classes/skull_ico.png
+c000000004C97526700000000000006A2
+t1284985447
+s1698
+
+N/Users/natalie/Development/CocoaDev/Tabby/Gamma.h
+c000000004C9751CC00000000000000D0
+t1284985292
+s208
+i<UIKit/UIKit.h>
+
+N/Users/natalie/Development/CocoaDev/Tabby/Gamma.m
+c000000004C9751CC000000000000057D
+t1284985292
+s1405
+i"Gamma.h"
+
+N/Users/natalie/Development/CocoaDev/Tabby/Gamma.xib
+c000000004C9751F8000000000000427C
+t1284985336
+s17020
+
+N/Users/natalie/Development/CocoaDev/Tabby/MainWindow.xib
+c000000004C974B5C00000000000020FE
+t1284983644
+s8446
+
+N/Users/natalie/Development/CocoaDev/Tabby/Tabby_Prefix.pch
+c000000004C974B5C00000000000000B3
+t1284983644
+s179
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/natalie/Development/CocoaDev/Tabby/bandaid_ico.png
+c000000004C9753DA00000000000006C7
+t1284985818
+s1735
+
+N/Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app
+t1284987223
+s612
+
+N/Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app.dSYM
+t1284986840
+s102
+
+N/Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app/Alpha.nib
+t1284986836
+s1702
+
+N/Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app/Beta.nib
+t1284986836
+s1701
+
+N/Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app/Delta.nib
+t1284986836
+s1702
+
+N/Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app/Epsilon.nib
+t1284986836
+s1697
+
+N/Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app/Gamma.nib
+t1284986836
+s1702
+
+N/Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app/Info.plist
+t1284987223
+s621
+
+N/Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app/MainWindow.nib
+t1284986836
+s1358
+
+N/Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app/PkgInfo
+t1284987223
+s8
+
+N/Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app/Tabby
+t1284986840
+s22680
+
+N/Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app/Zeta.nib
+t1284986837
+s1694
+
+N/Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app/bandaid_ico.png
+t1284985999
+s1735
+
+N/Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app/heart_ico.png
+t1284985598
+s1493
+
+N/Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app/planet_ico.png
+t1284984728
+s1809
+
+N/Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app/present_ico.png
+t1284985765
+s1644
+
+N/Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app/skull_ico.png
+t1284985598
+s1698
+
+N/Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app/star_ico.png
+t1284984728
+s1595
+
+N/Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Objects-normal/i386/Alpha.o
+t1284986839
+s34324
+
+N/Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Objects-normal/i386/Beta.o
+t1284986840
+s34312
+
+N/Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Objects-normal/i386/Delta.o
+t1284986840
+s33928
+
+N/Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Objects-normal/i386/Epsilon.o
+t1284986840
+s33952
+
+N/Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Objects-normal/i386/Gamma.o
+t1284986840
+s33932
+
+N/Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Objects-normal/i386/Tabby.LinkFileList
+c000000004C97544C00000000000003DA
+t1284985932
+s986
+
+N/Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Objects-normal/i386/TabbyAppDelegate.o
+t1284986839
+s49356
+
+N/Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Objects-normal/i386/Zeta.o
+t1284986840
+s33916
+
+N/Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Objects-normal/i386/main.o
+t1284986839
+s5948
+
+N/Users/natalie/Development/CocoaDev/Tabby/heart_ico.png
+c000000004C97525A00000000000005D5
+t1284985434
+s1493
+
+N/Users/natalie/Development/CocoaDev/Tabby/main.m
+c000000004C974B5C000000000000016B
+t1284983644
+s363
+i<UIKit/UIKit.h>
+
+N/Users/natalie/Development/CocoaDev/Tabby/planet_ico.png
+c000000004C974F370000000000000711
+t1284984631
+s1809
+
+N/Users/natalie/Development/CocoaDev/Tabby/star_ico.png
+c000000004C974F44000000000000063B
+t1284984644
+s1595
+
+N/var/folders/N-/N-A4K+9dHi4wHPCQCksSh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tabby_Prefix-abduuidkiwpmbegipaafidlkrkqs/Tabby_Prefix.pch.gch
+t1284986839
+s13805456
+
+N/var/folders/N-/N-A4K+9dHi4wHPCQCksSh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tabby_Prefix-fanpjrwaixjhnmfvhvxtpgfydodx/Tabby_Prefix.pch.gch
+t1284983819
+s13026768
+
+NTabby-Info.plist
+c000000004C9757F30000000000000399
+t1284986867
+s921
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies306680325#306680325#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/Tabby.build/Debug-iphonesimulator/Tabby.build/Objects-normal/i386/Alpha.o /Users/natalie/Development/CocoaDev/Tabby/Classes/Alpha.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306679639.915583
+e306679639.992066
+r1
+xCompileC
+xbuild/Tabby.build/Debug-iphonesimulator/Tabby.build/Objects-normal/i386/Alpha.o
+x/Users/natalie/Development/CocoaDev/Tabby/Classes/Alpha.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/natalie/Development/CocoaDev/Tabby/Classes/Alpha.m306679639#306679639#0(0"0(0#0#57"/Users/natalie/Development/CocoaDev/Tabby/Classes/Alpha.m4300911832#1860"    cd /Users/natalie/Development/CocoaDev/Tabby    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Tabby-generated-files.hmap -I/Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Tabby-own-target-headers.hmap -I/Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Tabby-all-target-headers.hmap -iquote /Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Tabby-project-headers.hmap -F/Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator -I/Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/include -I/Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/DerivedSources/i386 -I/Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/DerivedSources -include /var/folders/N-/N-A4K+9dHi4wHPCQCksSh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tabby_Prefix-abduuidkiwpmbegipaafidlkrkqs/Tabby_Prefix.pch -c /Users/natalie/Development/CocoaDev/Tabby/Classes/Alpha.m -o /Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Objects-normal/i386/Alpha.o0#
+
+CCompileC build/Tabby.build/Debug-iphonesimulator/Tabby.build/Objects-normal/i386/Beta.o /Users/natalie/Development/CocoaDev/Tabby/Classes/Beta.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306679639.956262
+e306679640.030669
+r1
+xCompileC
+xbuild/Tabby.build/Debug-iphonesimulator/Tabby.build/Objects-normal/i386/Beta.o
+x/Users/natalie/Development/CocoaDev/Tabby/Classes/Beta.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/natalie/Development/CocoaDev/Tabby/Classes/Beta.m306679639#306679640#0(0"0(0#0#56"/Users/natalie/Development/CocoaDev/Tabby/Classes/Beta.m4300911832#1858"    cd /Users/natalie/Development/CocoaDev/Tabby    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Tabby-generated-files.hmap -I/Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Tabby-own-target-headers.hmap -I/Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Tabby-all-target-headers.hmap -iquote /Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Tabby-project-headers.hmap -F/Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator -I/Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/include -I/Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/DerivedSources/i386 -I/Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/DerivedSources -include /var/folders/N-/N-A4K+9dHi4wHPCQCksSh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tabby_Prefix-abduuidkiwpmbegipaafidlkrkqs/Tabby_Prefix.pch -c /Users/natalie/Development/CocoaDev/Tabby/Classes/Beta.m -o /Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Objects-normal/i386/Beta.o0#
+
+CCompileC build/Tabby.build/Debug-iphonesimulator/Tabby.build/Objects-normal/i386/Delta.o /Users/natalie/Development/CocoaDev/Tabby/Classes/Delta.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306679640.030785
+e306679640.130109
+r1
+xCompileC
+xbuild/Tabby.build/Debug-iphonesimulator/Tabby.build/Objects-normal/i386/Delta.o
+x/Users/natalie/Development/CocoaDev/Tabby/Classes/Delta.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/natalie/Development/CocoaDev/Tabby/Classes/Delta.m306679640#306679640#0(0"0(0#0#57"/Users/natalie/Development/CocoaDev/Tabby/Classes/Delta.m4300911832#1860"    cd /Users/natalie/Development/CocoaDev/Tabby    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Tabby-generated-files.hmap -I/Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Tabby-own-target-headers.hmap -I/Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Tabby-all-target-headers.hmap -iquote /Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Tabby-project-headers.hmap -F/Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator -I/Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/include -I/Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/DerivedSources/i386 -I/Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/DerivedSources -include /var/folders/N-/N-A4K+9dHi4wHPCQCksSh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tabby_Prefix-abduuidkiwpmbegipaafidlkrkqs/Tabby_Prefix.pch -c /Users/natalie/Development/CocoaDev/Tabby/Classes/Delta.m -o /Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Objects-normal/i386/Delta.o0#
+
+CCompileC build/Tabby.build/Debug-iphonesimulator/Tabby.build/Objects-normal/i386/Epsilon.o /Users/natalie/Development/CocoaDev/Tabby/Classes/Epsilon.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306679640.074519
+e306679640.168870
+r1
+xCompileC
+xbuild/Tabby.build/Debug-iphonesimulator/Tabby.build/Objects-normal/i386/Epsilon.o
+x/Users/natalie/Development/CocoaDev/Tabby/Classes/Epsilon.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/natalie/Development/CocoaDev/Tabby/Classes/Epsilon.m306679640#306679640#0(0"0(0#0#59"/Users/natalie/Development/CocoaDev/Tabby/Classes/Epsilon.m4300911832#1864"    cd /Users/natalie/Development/CocoaDev/Tabby    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Tabby-generated-files.hmap -I/Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Tabby-own-target-headers.hmap -I/Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Tabby-all-target-headers.hmap -iquote /Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Tabby-project-headers.hmap -F/Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator -I/Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/include -I/Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/DerivedSources/i386 -I/Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/DerivedSources -include /var/folders/N-/N-A4K+9dHi4wHPCQCksSh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tabby_Prefix-abduuidkiwpmbegipaafidlkrkqs/Tabby_Prefix.pch -c /Users/natalie/Development/CocoaDev/Tabby/Classes/Epsilon.m -o /Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Objects-normal/i386/Epsilon.o0#
+
+CCompileC build/Tabby.build/Debug-iphonesimulator/Tabby.build/Objects-normal/i386/Gamma.o /Users/natalie/Development/CocoaDev/Tabby/Classes/../Gamma.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306679639.992188
+e306679640.074406
+r1
+xCompileC
+xbuild/Tabby.build/Debug-iphonesimulator/Tabby.build/Objects-normal/i386/Gamma.o
+x/Users/natalie/Development/CocoaDev/Tabby/Classes/../Gamma.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/natalie/Development/CocoaDev/Tabby/Classes/../Gamma.m306679639#306679640#0(0"0(0#0#60"/Users/natalie/Development/CocoaDev/Tabby/Classes/../Gamma.m4300911832#1863"    cd /Users/natalie/Development/CocoaDev/Tabby    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Tabby-generated-files.hmap -I/Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Tabby-own-target-headers.hmap -I/Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Tabby-all-target-headers.hmap -iquote /Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Tabby-project-headers.hmap -F/Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator -I/Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/include -I/Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/DerivedSources/i386 -I/Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/DerivedSources -include /var/folders/N-/N-A4K+9dHi4wHPCQCksSh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tabby_Prefix-abduuidkiwpmbegipaafidlkrkqs/Tabby_Prefix.pch -c /Users/natalie/Development/CocoaDev/Tabby/Classes/../Gamma.m -o /Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Objects-normal/i386/Gamma.o0#
+
+CCompileC build/Tabby.build/Debug-iphonesimulator/Tabby.build/Objects-normal/i386/Gamma.o /Users/natalie/Development/CocoaDev/Tabby/Gamma.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Tabby.build/Debug-iphonesimulator/Tabby.build/Objects-normal/i386/TabbyAppDelegate.o /Users/natalie/Development/CocoaDev/Tabby/Classes/TabbyAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306679639.805276
+e306679639.956146
+r1
+xCompileC
+xbuild/Tabby.build/Debug-iphonesimulator/Tabby.build/Objects-normal/i386/TabbyAppDelegate.o
+x/Users/natalie/Development/CocoaDev/Tabby/Classes/TabbyAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/natalie/Development/CocoaDev/Tabby/Classes/TabbyAppDelegate.m306679639#306679639#0(0"0(0#0#68"/Users/natalie/Development/CocoaDev/Tabby/Classes/TabbyAppDelegate.m4300911832#1882"    cd /Users/natalie/Development/CocoaDev/Tabby    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Tabby-generated-files.hmap -I/Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Tabby-own-target-headers.hmap -I/Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Tabby-all-target-headers.hmap -iquote /Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Tabby-project-headers.hmap -F/Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator -I/Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/include -I/Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/DerivedSources/i386 -I/Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/DerivedSources -include /var/folders/N-/N-A4K+9dHi4wHPCQCksSh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tabby_Prefix-abduuidkiwpmbegipaafidlkrkqs/Tabby_Prefix.pch -c /Users/natalie/Development/CocoaDev/Tabby/Classes/TabbyAppDelegate.m -o /Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Objects-normal/i386/TabbyAppDelegate.o0#
+
+CCompileC build/Tabby.build/Debug-iphonesimulator/Tabby.build/Objects-normal/i386/Zeta.o /Users/natalie/Development/CocoaDev/Tabby/Classes/Zeta.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306679640.130221
+e306679640.221412
+r1
+xCompileC
+xbuild/Tabby.build/Debug-iphonesimulator/Tabby.build/Objects-normal/i386/Zeta.o
+x/Users/natalie/Development/CocoaDev/Tabby/Classes/Zeta.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/natalie/Development/CocoaDev/Tabby/Classes/Zeta.m306679640#306679640#0(0"0(0#0#56"/Users/natalie/Development/CocoaDev/Tabby/Classes/Zeta.m4300911832#1858"    cd /Users/natalie/Development/CocoaDev/Tabby    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Tabby-generated-files.hmap -I/Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Tabby-own-target-headers.hmap -I/Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Tabby-all-target-headers.hmap -iquote /Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Tabby-project-headers.hmap -F/Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator -I/Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/include -I/Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/DerivedSources/i386 -I/Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/DerivedSources -include /var/folders/N-/N-A4K+9dHi4wHPCQCksSh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tabby_Prefix-abduuidkiwpmbegipaafidlkrkqs/Tabby_Prefix.pch -c /Users/natalie/Development/CocoaDev/Tabby/Classes/Zeta.m -o /Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Objects-normal/i386/Zeta.o0#
+
+CCompileC build/Tabby.build/Debug-iphonesimulator/Tabby.build/Objects-normal/i386/main.o /Users/natalie/Development/CocoaDev/Tabby/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306679639.803845
+e306679639.915467
+r1
+xCompileC
+xbuild/Tabby.build/Debug-iphonesimulator/Tabby.build/Objects-normal/i386/main.o
+x/Users/natalie/Development/CocoaDev/Tabby/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/natalie/Development/CocoaDev/Tabby/main.m306679639#306679639#0(0"0(0#0#48"/Users/natalie/Development/CocoaDev/Tabby/main.m4300911832#1850"    cd /Users/natalie/Development/CocoaDev/Tabby    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Tabby-generated-files.hmap -I/Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Tabby-own-target-headers.hmap -I/Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Tabby-all-target-headers.hmap -iquote /Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Tabby-project-headers.hmap -F/Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator -I/Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/include -I/Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/DerivedSources/i386 -I/Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/DerivedSources -include /var/folders/N-/N-A4K+9dHi4wHPCQCksSh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tabby_Prefix-abduuidkiwpmbegipaafidlkrkqs/Tabby_Prefix.pch -c /Users/natalie/Development/CocoaDev/Tabby/main.m -o /Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/natalie/Development/CocoaDev/Tabby/Classes/Alpha.xib
+s306679633.366747
+e306679636.287204
+r1
+xCompileXIB
+x/Users/natalie/Development/CocoaDev/Tabby/Classes/Alpha.xib
+lSLF07#2@28"CompileXIB Classes/Alpha.xib306679633#306679636#0(0"0(0#0#59"/Users/natalie/Development/CocoaDev/Tabby/Classes/Alpha.xib4300911832#485"    cd /Users/natalie/Development/CocoaDev/Tabby    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app/Alpha.nib /Users/natalie/Development/CocoaDev/Tabby/Classes/Alpha.xib0#
+
+CCompileXIB /Users/natalie/Development/CocoaDev/Tabby/Classes/Beta.xib
+s306679636.218848
+e306679636.532256
+r1
+xCompileXIB
+x/Users/natalie/Development/CocoaDev/Tabby/Classes/Beta.xib
+lSLF07#2@27"CompileXIB Classes/Beta.xib306679636#306679636#0(0"0(0#0#58"/Users/natalie/Development/CocoaDev/Tabby/Classes/Beta.xib4300911832#483"    cd /Users/natalie/Development/CocoaDev/Tabby    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app/Beta.nib /Users/natalie/Development/CocoaDev/Tabby/Classes/Beta.xib0#
+
+CCompileXIB /Users/natalie/Development/CocoaDev/Tabby/Classes/Delta.xib
+s306679636.532397
+e306679636.920035
+r1
+xCompileXIB
+x/Users/natalie/Development/CocoaDev/Tabby/Classes/Delta.xib
+lSLF07#2@28"CompileXIB Classes/Delta.xib306679636#306679636#0(0"0(0#0#59"/Users/natalie/Development/CocoaDev/Tabby/Classes/Delta.xib4300911832#485"    cd /Users/natalie/Development/CocoaDev/Tabby    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app/Delta.nib /Users/natalie/Development/CocoaDev/Tabby/Classes/Delta.xib0#
+
+CCompileXIB /Users/natalie/Development/CocoaDev/Tabby/Classes/Epsilon.xib
+s306679636.600052
+e306679636.962271
+r1
+xCompileXIB
+x/Users/natalie/Development/CocoaDev/Tabby/Classes/Epsilon.xib
+lSLF07#2@30"CompileXIB Classes/Epsilon.xib306679636#306679636#0(0"0(0#0#61"/Users/natalie/Development/CocoaDev/Tabby/Classes/Epsilon.xib4300911832#489"    cd /Users/natalie/Development/CocoaDev/Tabby    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app/Epsilon.nib /Users/natalie/Development/CocoaDev/Tabby/Classes/Epsilon.xib0#
+
+CCompileXIB /Users/natalie/Development/CocoaDev/Tabby/Classes/Zeta.xib
+s306679636.920130
+e306679637.234214
+r1
+xCompileXIB
+x/Users/natalie/Development/CocoaDev/Tabby/Classes/Zeta.xib
+lSLF07#2@27"CompileXIB Classes/Zeta.xib306679636#306679637#0(0"0(0#0#58"/Users/natalie/Development/CocoaDev/Tabby/Classes/Zeta.xib4300911832#483"    cd /Users/natalie/Development/CocoaDev/Tabby    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app/Zeta.nib /Users/natalie/Development/CocoaDev/Tabby/Classes/Zeta.xib0#
+
+CCompileXIB /Users/natalie/Development/CocoaDev/Tabby/Gamma.xib
+s306679636.287447
+e306679636.599772
+r1
+xCompileXIB
+x/Users/natalie/Development/CocoaDev/Tabby/Gamma.xib
+lSLF07#2@20"CompileXIB Gamma.xib306679636#306679636#0(0"0(0#0#51"/Users/natalie/Development/CocoaDev/Tabby/Gamma.xib4300911832#477"    cd /Users/natalie/Development/CocoaDev/Tabby    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app/Gamma.nib /Users/natalie/Development/CocoaDev/Tabby/Gamma.xib0#
+
+CCompileXIB /Users/natalie/Development/CocoaDev/Tabby/MainWindow.xib
+s306679633.365820
+e306679636.218666
+r1
+xCompileXIB
+x/Users/natalie/Development/CocoaDev/Tabby/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib306679633#306679636#0(0"0(0#0#56"/Users/natalie/Development/CocoaDev/Tabby/MainWindow.xib19140500286406760#487"    cd /Users/natalie/Development/CocoaDev/Tabby    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app/MainWindow.nib /Users/natalie/Development/CocoaDev/Tabby/MainWindow.xib0#
+
+CCpResource build/Debug-iphonesimulator/Tabby.app/bandaid_ico.png bandaid_ico.png
+s306678799.088155
+e306678799.172383
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Tabby.app/bandaid_ico.png
+xbandaid_ico.png
+lSLF07#2@20"Copy bandaid_ico.png306678799#306678799#0(0"0(0#0#57"/Users/natalie/Development/CocoaDev/Tabby/bandaid_ico.png4300911832#466"    cd /Users/natalie/Development/CocoaDev/Tabby    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/natalie/Development/CocoaDev/Tabby/bandaid_ico.png /Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app0#
+
+CCpResource build/Debug-iphonesimulator/Tabby.app/heart_ico.png heart_ico.png
+s306678398.198471
+e306678398.334918
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Tabby.app/heart_ico.png
+xheart_ico.png
+lSLF07#2@18"Copy heart_ico.png306678398#306678398#0(0"0(0#0#55"/Users/natalie/Development/CocoaDev/Tabby/heart_ico.png4300911832#464"    cd /Users/natalie/Development/CocoaDev/Tabby    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/natalie/Development/CocoaDev/Tabby/heart_ico.png /Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app0#
+
+CCpResource build/Debug-iphonesimulator/Tabby.app/planet_ico.png planet_ico.png
+s306677528.098215
+e306677528.195123
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Tabby.app/planet_ico.png
+xplanet_ico.png
+lSLF07#2@19"Copy planet_ico.png306677528#306677528#0(0"0(0#0#56"/Users/natalie/Development/CocoaDev/Tabby/planet_ico.png4300911832#465"    cd /Users/natalie/Development/CocoaDev/Tabby    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/natalie/Development/CocoaDev/Tabby/planet_ico.png /Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app0#
+
+CCpResource build/Debug-iphonesimulator/Tabby.app/present_ico.png Classes/present_ico.png
+s306678565.084488
+e306678565.340508
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Tabby.app/present_ico.png
+xClasses/present_ico.png
+lSLF07#2@28"Copy Classes/present_ico.png306678565#306678565#0(0"0(0#0#65"/Users/natalie/Development/CocoaDev/Tabby/Classes/present_ico.png4300911832#474"    cd /Users/natalie/Development/CocoaDev/Tabby    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/natalie/Development/CocoaDev/Tabby/Classes/present_ico.png /Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app0#
+
+CCpResource build/Debug-iphonesimulator/Tabby.app/skull_ico.png Classes/skull_ico.png
+s306678398.197692
+e306678398.334707
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Tabby.app/skull_ico.png
+xClasses/skull_ico.png
+lSLF07#2@26"Copy Classes/skull_ico.png306678398#306678398#0(0"0(0#0#63"/Users/natalie/Development/CocoaDev/Tabby/Classes/skull_ico.png4300911832#472"    cd /Users/natalie/Development/CocoaDev/Tabby    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/natalie/Development/CocoaDev/Tabby/Classes/skull_ico.png /Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app0#
+
+CCpResource build/Debug-iphonesimulator/Tabby.app/star_ico.png star_ico.png
+s306677528.099098
+e306677528.194834
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Tabby.app/star_ico.png
+xstar_ico.png
+lSLF07#2@17"Copy star_ico.png306677528#306677528#0(0"0(0#0#54"/Users/natalie/Development/CocoaDev/Tabby/star_ico.png4300911832#463"    cd /Users/natalie/Development/CocoaDev/Tabby    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/natalie/Development/CocoaDev/Tabby/star_ico.png /Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app0#
+
+CGenerateDSYMFile /Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app.dSYM /Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app/Tabby
+s306679640.596189
+e306679640.651641
+r1
+xGenerateDSYMFile
+x/Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app.dSYM
+x/Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app/Tabby
+lSLF07#2@103"GenerateDSYMFile build/Debug-iphonesimulator/Tabby.app.dSYM build/Debug-iphonesimulator/Tabby.app/Tabby306679640#306679640#0(0"0(0#0#85"/Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app/Tabby4300911832#386"    cd /Users/natalie/Development/CocoaDev/Tabby    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app/Tabby -o /Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app.dSYM0#
+
+CLd /Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app/Tabby normal i386
+s306679640.221539
+e306679640.596074
+r1
+xLd
+x/Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app/Tabby
+xnormal
+xi386
+lSLF07#2@90"Link /Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app/Tabby306679640#306679640#0(0"0(0#0#0"4300911832#867"    cd /Users/natalie/Development/CocoaDev/Tabby    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator -F/Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator -filelist /Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Objects-normal/i386/Tabby.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app/Tabby0#
+
+CProcessInfoPlistFile /Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app/Info.plist Tabby-Info.plist
+s306680023.756656
+e306680023.966957
+r1
+xProcessInfoPlistFile
+x/Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app/Info.plist
+xTabby-Info.plist
+lSLF07#2@24"Process Tabby-Info.plist306680023#306680023#0(0"0(0#0#58"/Users/natalie/Development/CocoaDev/Tabby/Tabby-Info.plist27584981513797680#482"    cd /Users/natalie/Development/CocoaDev/Tabby    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Tabby-Info.plist -genpkginfo /Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app/Info.plist0#
+
+CProcessPCH /var/folders/N-/N-A4K+9dHi4wHPCQCksSh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tabby_Prefix-abduuidkiwpmbegipaafidlkrkqs/Tabby_Prefix.pch.gch Tabby_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s306679637.234351
+e306679639.803570
+r1
+xProcessPCH
+x/var/folders/N-/N-A4K+9dHi4wHPCQCksSh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tabby_Prefix-abduuidkiwpmbegipaafidlkrkqs/Tabby_Prefix.pch.gch
+xTabby_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile Tabby_Prefix.pch306679637#306679639#0(0"0(0#0#58"/Users/natalie/Development/CocoaDev/Tabby/Tabby_Prefix.pch4300911832#1741"    cd /Users/natalie/Development/CocoaDev/Tabby    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Tabby-generated-files.hmap -I/Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Tabby-own-target-headers.hmap -I/Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Tabby-all-target-headers.hmap -iquote /Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Tabby-project-headers.hmap -F/Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator -I/Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/include -I/Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/DerivedSources/i386 -I/Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/DerivedSources -c /Users/natalie/Development/CocoaDev/Tabby/Tabby_Prefix.pch -o /var/folders/N-/N-A4K+9dHi4wHPCQCksSh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tabby_Prefix-abduuidkiwpmbegipaafidlkrkqs/Tabby_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/N-/N-A4K+9dHi4wHPCQCksSh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tabby_Prefix-fanpjrwaixjhnmfvhvxtpgfydodx/Tabby_Prefix.pch.gch Tabby_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s306676618.566710
+e306676620.160709
+r1
+xProcessPCH
+x/var/folders/N-/N-A4K+9dHi4wHPCQCksSh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tabby_Prefix-fanpjrwaixjhnmfvhvxtpgfydodx/Tabby_Prefix.pch.gch
+xTabby_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile Tabby_Prefix.pch306676618#306676620#0(0"0(0#0#58"/Users/natalie/Development/CocoaDev/Tabby/Tabby_Prefix.pch4300911832#1743"    cd /Users/natalie/Development/CocoaDev/Tabby    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Tabby-generated-files.hmap -I/Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Tabby-own-target-headers.hmap -I/Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Tabby-all-target-headers.hmap -iquote /Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/Tabby-project-headers.hmap -F/Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator -I/Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/include -I/Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/DerivedSources/i386 -I/Users/natalie/Development/CocoaDev/Tabby/build/Tabby.build/Debug-iphonesimulator/Tabby.build/DerivedSources -c /Users/natalie/Development/CocoaDev/Tabby/Tabby_Prefix.pch -o /var/folders/N-/N-A4K+9dHi4wHPCQCksSh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tabby_Prefix-fanpjrwaixjhnmfvhvxtpgfydodx/Tabby_Prefix.pch.gch0#
+
+CTouch /Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app
+s306680023.968683
+e306680023.971789
+r1
+xTouch
+x/Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app
+lSLF07#2@85"Touch /Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app306680023#306680023#0(0"0(0#0#0"4300911832#282"    cd /Users/natalie/Development/CocoaDev/Tabby    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/natalie/Development/CocoaDev/Tabby/build/Debug-iphonesimulator/Tabby.app0#
+
